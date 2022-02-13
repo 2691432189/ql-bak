@@ -1,4 +1,7 @@
+青龙仓库备份，
 
+
+原仓库 [INSTALL](https://github.com/6dylan6/jdpro.git)
 
 # Tips
 
